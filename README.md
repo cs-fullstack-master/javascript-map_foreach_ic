@@ -1,4 +1,4 @@
-# javascript-map_foreach_ic
+# javascript-higher-order-functions-ic
 
 ### Problem 1
 Create a function that will take the array [1, 2, 3, 4, 5, 6] and add all of the elements in the array. Return the sum.
